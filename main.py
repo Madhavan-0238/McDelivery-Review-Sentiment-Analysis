@@ -19,7 +19,7 @@ analyzer = SentimentIntensityAnalyzer()
 print("McDonald's Review Analysis\n")
 
 # ================= LOAD DATA =================
-df = pd.read_excel("reviews.xlsx")
+df = pd.read_excel("sample_reviews.xlsx")
 
 print("Dataset Shape:", df.shape)
 print("Columns:", list(df.columns))
