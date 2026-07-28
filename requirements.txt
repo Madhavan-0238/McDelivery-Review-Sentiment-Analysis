@@ -1,6 +1,17 @@
-pandas
-matplotlib
-nltk
-openpyxl
-vaderSentiment
-wordcloud
+Python
+
+Pandas
+
+NumPy
+
+NLTK
+
+Scikit-learn
+
+VADER Sentiment
+
+Matplotlib
+
+WordCloud
+
+OpenPyXL
